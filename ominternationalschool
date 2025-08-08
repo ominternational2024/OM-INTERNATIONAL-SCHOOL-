@@ -1,0 +1,44 @@
+index.html 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OM International School</title>
+</head>
+<body>
+  <header>
+    <h1>OM International School</h1>
+    <p>AT POST SHELGAON, TAL KHED, DIST PUNE 410501</p>
+    <p>Email: ominternationalschool526@gmail.com</p>
+    <p>Contact: 9022665389</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Welcome!</h2>
+      <p>Admissions open every New Year for Nursery, LKG, and UKG.</p>
+      <p>We provide special activities like Dance, Drawing, Abacus, and Karate.</p>
+    </section>
+
+    <section>
+      <h2>Why Choose Us?</h2>
+      <ul>
+        <li>Creative Learning Environment</li>
+        <li>Experienced Faculty</li>
+        <li>Focus on Overall Development</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>For admissions and inquiries, call us at: 9022665389</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Tagline: "Nurturing Bright Minds for a Better Tomorrow"</p>
+    <p>&copy; 2025 OM International School. All rights reserved.</p>
+  </footer>
+</body>
+</html>
